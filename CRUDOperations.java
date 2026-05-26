@@ -1,3 +1,7 @@
+// Developer: Prince
+// Role: Backend Developer
+// Description: Handles all CRUD database operations
+
 import java.sql.*;
 
 /**
