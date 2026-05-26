@@ -1,3 +1,6 @@
+// Developer: Hector
+// Role: Validation Engineer
+// Description: Handles all input validation and error checking
 import java.util.Scanner;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
