@@ -1,3 +1,6 @@
+// Developer: Paul
+// Role: Menu Developer
+// Description: Handles menu display and user navigation
 import java.sql.Connection;
 import java.util.Scanner;
 
